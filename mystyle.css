@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(124, 175, 170);
+}
+#root {
+  font-size: 150px;
+  margin: -10% 20%;
+  padding: 5% 25%;
+  background-color: aqua;
+}
+#p1 {
+  font-size: 150px;
+  padding: 5% 5%;
+}
